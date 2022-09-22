@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	instance := discordhooks.New(1022537062504730735, "MjDJ7OAZnD20lJ26C2DHtVGY0Z_pLW1_b0TBBPxCYwNwrIB4qfVhB6Ib29IjSpltaWAI")
+	instance := discordhooks.New(, "")
 
 
 	/* Makes a webhook */
